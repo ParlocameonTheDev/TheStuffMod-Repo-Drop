@@ -1,0 +1,16 @@
+[
+{
+  "modid": "thestuffmod",
+  "name": "TheStuffMod",
+  "description": "A Cool Minecraft Mod that adds a bunch of stuff.",
+  "version": "1.10",
+  "mcversion": "1.8",
+  "url": "http://pth1515.x10host.com",
+  "updateUrl": "",
+  "authorList": ["CoolParker15"],
+  "credits": "Me (CoolParker15), for Scripting, Modding, Textures, and making US Lang file.",
+  "logoFile": "thestuffmodlogo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

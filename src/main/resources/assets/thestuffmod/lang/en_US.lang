@@ -1,0 +1,34 @@
+item.obsidian_stick.name=Obsidian Stick
+item.obsidian_emerald.name=Obsidian Emerald
+item.corn_dog.name=Corn Dog
+item.grilled_corn_dog.name=Grilled Corn Dog
+item.emerald_sword.name=Emerald Sword
+item.emerald_pickaxe.name=Emerald Pickaxe
+item.emerald_axe.name=Emerald Axe
+item.emerald_hoe.name=Emerald Hoe
+item.emerald_shovel.name=Emerald Shovel
+item.teleporter_eye.name=Teleporter Eye
+item.staff_of_healing.name=Staff Of Healing
+item.emerald_bow.name=Emerald Bow
+item.healing_essence.name=Healing Essence
+item.healing_orb.name=Healing Orb
+item.emerald_helmet.name=Emerald Helmet
+item.emerald_chestplate.name=Emerald Chestplate
+item.emerald_leggings.name=Emerald Leggings
+item.emerald_boots.name=Emerald Boots
+item.insta_kill_sword.name=Insta Kill Sword
+item.healite.name=Healite
+
+
+tile.red_dyed_stone.name=Red Dyed Stone
+tile.blue_dyed_stone.name=Blue Dyed Stone
+tile.nyan_block.name=Nyan Block
+tile.left_arrow_block.name=Left Arrow Block
+tile.right_arrow_block.name=Right Arrow Block
+tile.up_arrow_block.name=Up Arrow Block
+tile.down_arrow_block.name=Down Arrow Block
+tile.clear_glass.name=Clear Glass
+tile.teleporter_block.name=Teleporter Block
+tile.healite_ore.name=Healite Ore
+
+itemGroup.tabMod=TheStuffMod

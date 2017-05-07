@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "thestuffmod:blocks/red_dyed_stone"
+    }
+}

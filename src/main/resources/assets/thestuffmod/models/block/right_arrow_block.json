@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "thestuffmod:blocks/right_arrow_block"
+    }
+}
