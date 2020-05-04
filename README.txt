@@ -1,1 +1,0 @@
-This is the TheStuffMod Github Repo Dump. Please do not mess with the code, but you may reference parts of it in your own projects for help.
